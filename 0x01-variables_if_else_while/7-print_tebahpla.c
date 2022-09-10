@@ -3,7 +3,7 @@
 /**
 * main - Prints the lowercase alphabet in reverse.
 *can only use putchar.
-*  
+*
 *Return: Always 0.
 */
 int main(void)
